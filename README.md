@@ -9,6 +9,10 @@
 ### 二、笔记
 # ![img](note.png)
 # 主页增加新的note
+# ![img](add.png)
+# 删除
+# ![img](delete.png)
+# 界面
 # ![img](xiaoguo.png)
 ### 三、搜索
 # ![img](search.png)
